@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Harsh</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently working on **Object Tracking and 3D Visualization**
+- 🔭 I’m currently working with **Wio Bank PJSC** as a *Junior Flutter Engineer*.
 
-- 🌱 I’m currently learning **ReactJS, NodeJS and PHP**
+- 🌱 I’m currently learning **ReactJS**
 
 - 📫 How to reach me **harshvadi592@gmail.com**
 
